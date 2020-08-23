@@ -1,0 +1,11 @@
+Book Management is a book managing app made in Python using MySQL through Xampp.
+
+This program has following features:
+1.  Add a Book Record (ID,Title,Author,Publication)
+2.  Delete a Record
+3.  Update Book Record
+4.  Search for a Book
+5.  View All Records
+
+--Run frontend.py file--
+Note : Requires Xampp to Run 
