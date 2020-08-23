@@ -1,9 +1,0 @@
-Hangman is a game that chooses a random word from the english language, and you try to guess the word. If you make too many incorrect guesses you lose.
-
-      ╔═══╗
-      |   ║
-      O   ║
-     \|/  ║
-     /|\  ║
-     ███  ║
-    ══════╩═══
